@@ -10,3 +10,5 @@
 		- XlsReports, share dependencies among report family, `ConcreteFacotry2`,
 		- PlainReports, share dependencies among report family, `ConcreteFacotry3`.
 ![alt text](https://github.com/gwasylow/dotnet-design-patterns/blob/master/Images/dp-abstract-factory.PNG)
+
+moja nowa funkcjonalność implementowana na branchu Branch-Daria
